@@ -11,7 +11,7 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/Myyepz/Newyep
+$ git clone https://github.com/ariefiraBot/helloworld
 $ pip3 install beautifulsoup4==4.6.0
 $ pip3 install bs4==0.0.1
 $ pip3 install certifi==2018.4.16
@@ -27,14 +27,14 @@ $ pip3 install requests==2.19.1
 $ pip3 install rsa==3.4.2
 $ pip3 install six==1.11.0
 $ pip3 install urllib3==1.23
-$ cd Newyep
-$ python3 yep.py
+$ cd helloworld
+$ python3 art.py
 ```
 
 ## Installation for VPS
 
 ```sh
-$ git clone https://github.com/Myyepz/Newyep
+$ git clone https://github.com/ariefiraBot/helloworld
 $ pip install beautifulsoup4==4.6.0
 $ pip install bs4==0.0.1
 $ pip install certifi==2018.4.16
@@ -50,8 +50,8 @@ $ pip install requests==2.19.1
 $ pip install rsa==3.4.2
 $ pip install six==1.11.0
 $ pip install urllib3==1.23
-$ cd Newyep
-$ python3 yep.py
+$ cd helloworld
+$ python3 art.py
 ```
 ## Attention
 
